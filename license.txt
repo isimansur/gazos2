@@ -1,0 +1,8 @@
+Model Information:
+* title:	Oil Rig
+* source:	https://sketchfab.com/3d-models/oil-rig-fcc288030a5642fbb4bc7f355a7d205b
+* author:	_.izzia_ (https://sketchfab.com/_.izzia_)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
